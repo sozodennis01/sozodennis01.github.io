@@ -12,7 +12,9 @@ labels:
 summary: "A zero-dependency web app that tiles a square passport photo into a 4x6 print layout, so anyone can print compliant photos at Walgreens or CVS for about a dollar."
 ---
 
-<img class="img-fluid" src="../img/passport/passport-square.png">
+<img class="img-fluid" src="../img/passport/passport-demo.png">
+
+<p class="text-center text-muted"><small>The tool tiles one square photo into a printable 4x6 sheet.</small></p>
 
 I built this tool while helping my parents renew their passports. I'd taken their photos, but I didn't have a photo printer at home — and I quickly learned you can't just send a single square photo to a drugstore print kiosk. The online converters I found wanted me to upload my parents' photos to their servers, which felt sketchy and unnecessary for something this simple. All I actually needed was to tile one square photo into a 4x6 sheet I could print for under a dollar.
 

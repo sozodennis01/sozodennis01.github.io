@@ -13,7 +13,9 @@ labels:
 summary: "A full-stack web chatbot that uses GPT-4 to quiz AFROTC Detachment 175 cadets on their Warrior Knowledge handbook, with rate limiting and session management."
 ---
 
-<img class="img-fluid" src="../img/chatbot/chatbot-square.png">
+<img class="img-fluid" src="../img/chatbot/chatbot-app.jpg">
+
+<p class="text-center text-muted"><small>The DET175 Warrior Knowledge Quiz Chatbot in action.</small></p>
 
 The DET175 Warrior Knowledge Quiz Chatbot is an interactive web app I built to help my fellow Air Force ROTC cadets study the Detachment 175 Cadet Handbook. Memorizing ranks, mission statements, historical facts, and key doctrines is a constant part of cadet life, so I used OpenAI's GPT-4o-mini model to dynamically generate varied, randomized quiz questions from the handbook content. The result is a self-assessment tool that feels different every session instead of a static flashcard list.
 

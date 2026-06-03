@@ -13,7 +13,7 @@ labels:
 summary: "A Python and Selenium script that automates a tedious grid-card multi-factor login, cutting a QA engineer's repetitive sign-in from 2-3 minutes down to under a minute."
 ---
 
-<img class="img-fluid" src="../img/grid-login/grid-login-square.png">
+<img width="320px" class="img-fluid rounded float-end ps-4" src="../img/grid-login/grid-card-example.jpg">
 
 During my QA internship at [Prometheus Group](https://www.prometheusgroup.com/solutions/mobility), I regularly had to log into clients' testing environments to reproduce bug tickets and pull configurations. One client guarded their system with a grid-card challenge — an uncommon form of multi-factor authentication where you're given a row and column (for example, "A4-A5-D5") and must look up the matching key values on a printed card. Doing this dozens of times a day meant hunting down the card in a Teams directory and decoding the challenge by hand. It was slow, repetitive, and exactly the kind of thing software should handle.
 
