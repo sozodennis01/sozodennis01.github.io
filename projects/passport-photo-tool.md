@@ -22,4 +22,6 @@ So I made it myself, deliberately with no external libraries — just HTML, CSS,
 
 The lesson was a quiet but important one: keeping it simple and local was the whole point. By refusing to upload anyone's photos to a server and avoiding dependencies, I ended up with a tool that's private, fast, and still works years later with nothing to maintain. I later found another site that does something similar with a nicer UI — but mine does exactly what my family needed, and building it taught me that the right scope is often much smaller than you think.
 
+Try it live: <a href="https://sozodennis01.github.io/free-passport-photos-4x6/">sozodennis01.github.io/free-passport-photos-4x6</a>
+
 Source: <a href="https://github.com/sozodennis01/free-passport-photos-4x6">sozodennis01/free-passport-photos-4x6</a>
