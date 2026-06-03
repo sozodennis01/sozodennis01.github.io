@@ -17,7 +17,7 @@ I was an early adopter of GPT-4, and it blew my mind that the thing even worked.
 
 ## But it's a tool, and it always will be
 
-Here's the part I want students to actually hear: AI is a tool. The unlock isn't AI replacing you, it's the human-plus-AI combo, and that combo is too good to ignore. The way I think about it is simple. A human walks around with something like an incomprehensibly huge model already — twenty-plus years of real-world training and an actual world model running in your head. AI, for now, is mostly trained on text. Pair the two and you get something better than either one alone. So don't hand your thinking over to it. Aim it.
+Here's the part I want people to actually understand: AI is a tool. The unlock isn't AI replacing you, it's the human-plus-AI combo, and that combo is too good to ignore. The way I think about it is simple. A human walks around with something like an incomprehensibly huge model already — twenty-plus years of real-world training and an actual world model running in your head. AI, for now, is mostly trained on text. Pair the two and you get something better than either one alone. So don't hand your thinking over to it. Aim it.
 
 ## Which is exactly why fundamentals matter more now
 
@@ -27,6 +27,6 @@ When I was a junior developer at Prometheus Group writing code for paying client
 
 I'm a heavy user now. Claude and ChatGPT, and their coding harnesses Claude Code and Codex, which honestly weren't even possible until a few months ago. I have an OpenClaw assistant managing my reminders, todos, and calendar; I can hand it a small skill file and it controls my Apple Reminders for me. Tell me that in 2017 and I would have laughed. This portfolio is another example: I used this class as a forcing function to write, refresh my real work, and produce an artifact I can build on later. The harness tooling moved from "neat demo" to "genuinely runs part of my life" in about a year.
 
-## What I'd tell a student
+## What I'd tell someone new to AI
 
 So if you're newer to this, here's my honest advice. Learn computer science and understand the fundamentals. Don't stress about memorizing syntax, because that's the part the tool is genuinely best at. Build things. Make a real artifact, whether it's a document, a slide deck, or a working app, and show it to people. Be eager, and look for problems in your own life to fix, because that's the fastest way to learn a tool this powerful. It is a life-changing tool, but its real power belongs to people who combine it with strong fundamentals.
