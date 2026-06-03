@@ -1,113 +1,171 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Dennis Sarsozo",
+    "label": "Computer Engineering Student & CubeSat Flight Software Engineer",
+    "picture": "img/dennis-headshot.jpg",
+    "email": "dsarsozo@hawaii.edu",
+    "phone": "Private - request as needed.",
+    "website": "https://sozodennis.com",
+    "summary": "I am pursuing a B.S. in Computer Engineering in the College of Engineering at the University of Hawai'i at Manoa, graduating in May 2027. I build embedded flight software for NASA- and DoD-funded CubeSat missions, and I will commission into the United States Space Force in 2027.",
+    "location": {
+      "address": "",
+      "postalCode": "96797",
+      "city": "Waikele",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "sozodennis01",
+        "url": "https://github.com/sozodennis01"
+      },
+      {
+        "network": "linkedin",
+        "username": "sozodennis",
+        "url": "https://www.linkedin.com/in/sozodennis"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Flight & Embedded Software" },
+    { "name": "CubeSats & Space Systems" },
+    { "name": "RF & Communications Systems" },
+    { "name": "Cybersecurity" },
+    { "name": "Test Automation & CI/CD" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "C#",
+        "JavaScript/React",
+        "SQL",
+        "MATLAB"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Embedded & Hardware",
+      "keywords": [
+        "NASA F-Prime",
+        "Embedded Linux",
+        "Arduino",
+        "Teensy",
+        "Raspberry Pi",
+        "FPGA",
+        "JTAG Debugging",
+        "RF Systems"
+      ]
+    },
+    {
+      "name": "Tools & Practices",
+      "keywords": [
+        "Git/GitHub",
+        "GitLab CI/CD",
+        "Agile/Scrum",
+        "Selenium",
+        "Networking",
+        "Cybersecurity"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawai'i at Manoa, Honolulu, HI",
+      "area": "B.S. Computer Engineering (GPA 3.33)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2023-08-01",
+      "endDate": "2027-05-01",
       "courses": [
+        "Air Force ROTC Detachment 175 - Director of Operations (A3), overseeing training execution for 90+ cadets"
+      ]
+    },
+    {
+      "institution": "North Carolina State University, Raleigh, NC",
+      "area": "B.S. Business Administration, Information Technology (Computer Science Minor, GPA 3.86)",
+      "studyType": "B.S.",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-01",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "C# Development",
+        "Python Web Development",
+        "Database Management"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaii Space Flight Laboratory (HSFL)",
+      "position": "CubeSat Satellite Software Engineer Intern",
+      "website": "https://www.hsfl.hawaii.edu/",
+      "startDate": "2025-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead embedded flight software development across two concurrent NASA- and DoD-funded CubeSat missions.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed embedded C/C++ and Python flight software integrating infrared spectrometer and FLIR thermal camera payloads; achieved wireless HD thermal imaging at 50+ ft range and 8 FPS streaming",
+        "Integrating NASA's F-Prime framework (flight-proven on Mars Ingenuity) onto an Artemis CubeSat kit for a DoD AFRL dual-satellite polar-orbit constellation targeting a 2029 launch",
+        "Performed JTAG flashing, PDU hardware troubleshooting, and FPGA validation for the SatNOGS-COMMS radio",
+        "Software team lead driving Agile practices and mentoring junior engineers under ITAR-sensitive data handling"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Prometheus Group",
+      "position": "Software Engineer - Mobile",
+      "website": "https://www.prometheusgroup.com/solutions/mobility",
+      "startDate": "2020-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Built front-end and back-end features for enterprise SAP mobility apps across Android, iOS, and Windows.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed features using Xamarin, C#, Objective-C, C++, Java, and SAP ABAP",
+        "Integrated OAuth2 SSO logins into the Mobile V4 SAP Plant Maintenance app and Operator Rounds",
+        "Created GitLab CI/CD pipelines and built a mobile barcode-scanning feature automating SAP inventory transactions"
+      ]
+    },
+    {
+      "company": "NCSU Office of Information Technology",
+      "position": "Network Operations / Information Security Intern",
+      "website": "https://oit.ncsu.edu/",
+      "startDate": "2019-11-01",
+      "endDate": "2020-12-01",
+      "summary": "Supported network operations and security for a 40,000-user campus network.",
+      "highlights": [
+        "Scripted Palo Alto firewall provisioning in Python and built a PHP web app aggregating Google Calendar data for the Network Operations Center",
+        "Monitored 200+ suspicious Active Directory logins via Splunk and Cisco Stealthwatch"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Air Force ROTC, Detachment 175 (University of Hawai'i at Manoa)",
+      "website": "https://www.afrotc.com/",
+      "position": "Director of Operations (A3)",
+      "startDate": "2024-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Cadet leadership overseeing training execution for the detachment.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Plan and direct weekly training and operations for 90+ cadets",
+        "Build a future Space Force officer's foundation in leadership, planning, and team execution"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Top Secret (TS) Security Clearance",
+      "date": "2025",
+      "awarder": "U.S. Department of Defense",
+      "summary": "Active Top Secret clearance."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "United States Space Force Commission (Pending)",
+      "date": "2027",
+      "awarder": "United States Air Force / Space Force",
+      "summary": "Commissioning as a Second Lieutenant in the United States Space Force upon graduation in 2027."
     }
   ],
   "references": [
