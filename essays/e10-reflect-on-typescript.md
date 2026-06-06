@@ -12,7 +12,7 @@ labels:
 ---
 # TypeScript Is Fine, But I Miss My Types Up Front
 
-*ICS 314 — E10 Reflection | Dennis Sarsozo | June 2026*
+**ICS 314 — E10 Reflection | Dennis Sarsozo | June 2026**
 
 ---
 
