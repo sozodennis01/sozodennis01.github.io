@@ -41,6 +41,8 @@ Here is the comparison I kept thinking about while writing this: the real Apple 
   </div>
 </div>
 
+Funny enough, this essay itself proved the point after I published it. The first version used normal Markdown image syntax, so the screenshots showed up way too large on the live site. The fix was exactly the kind of thing I am arguing for here: use Bootstrap's responsive grid, put the screenshots in columns, and add `img-fluid` so the images resize correctly on desktop and mobile. I used Bootstrap to fix my essay about why Bootstrap is useful. That is pretty much the whole argument in one bug fix.
+
 ## HTML Is Structure, CSS Is Styling
 
 Raw HTML and CSS are still the foundation. HTML is basically how you structure information on a page. It is how you make the document. CSS is how you make it look better. It is the styling layer.
