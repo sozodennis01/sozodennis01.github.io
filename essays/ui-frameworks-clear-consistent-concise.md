@@ -12,7 +12,7 @@ labels:
 ---
 # UI Frameworks: Clear, Consistent, Concise
 
-**ICS 314 — E37 Reflection | Dennis Sarsozo | July 2026**
+<p class="lead mb-4">ICS 314 - E37 Reflection &middot; Dennis Sarsozo &middot; July 2026</p>
 
 ---
 
@@ -26,20 +26,15 @@ My answer is simple: you get something that just works. More importantly, you ge
 
 Here is the comparison I kept thinking about while writing this: the real Apple homepage, then the Bootstrap 5 version I built for an assignment. Mine is obviously not Apple-level design, but that is exactly the point. With a framework, I could get close to the structure, spacing, nav, hero text, and button layout without building every detail from zero.
 
-<div class="row g-3 my-4 align-items-start">
-  <div class="col-md-6">
-    <figure class="m-0">
-      <img class="img-fluid rounded border" src="../img/e37-ui-frameworks/apple-homepage-iphone17.png" alt="Apple homepage showing the iPhone 17 hero section">
-      <figcaption class="text-muted small mt-2">The real Apple homepage, scrolled to the iPhone 17 hero section.</figcaption>
-    </figure>
-  </div>
-  <div class="col-md-6">
-    <figure class="m-0">
-      <img class="img-fluid rounded border" src="../img/e37-ui-frameworks/bootstrap-iphone17-rebuild.png" alt="Bootstrap 5 rebuild of an Apple-style iPhone 17 homepage">
-      <figcaption class="text-muted small mt-2">My Bootstrap 5 rebuild from the assignment.</figcaption>
-    </figure>
-  </div>
-</div>
+<figure class="my-4">
+  <img class="img-fluid rounded border d-block mx-auto" src="../img/e37-ui-frameworks/apple-homepage-iphone17.png" alt="Apple homepage showing the iPhone 17 hero section">
+  <figcaption class="text-muted small mt-2">The real Apple homepage, scrolled to the iPhone 17 hero section.</figcaption>
+</figure>
+
+<figure class="my-4">
+  <img class="img-fluid rounded border d-block mx-auto" src="../img/e37-ui-frameworks/bootstrap-iphone17-rebuild.png" alt="Bootstrap 5 rebuild of an Apple-style iPhone 17 homepage">
+  <figcaption class="text-muted small mt-2">My Bootstrap 5 rebuild from the assignment.</figcaption>
+</figure>
 
 Funny enough, this essay itself proved the point after I published it. The first version used normal Markdown image syntax, so the screenshots showed up way too large on the live site. The fix was exactly the kind of thing I am arguing for here: use Bootstrap's responsive grid, put the screenshots in columns, and add `img-fluid` so the images resize correctly on desktop and mobile. I used Bootstrap to fix my essay about why Bootstrap is useful. That is pretty much the whole argument in one bug fix.
 
