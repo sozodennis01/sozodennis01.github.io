@@ -10,6 +10,11 @@ labels:
   - CSS
   - Software Engineering
 ---
+# UI Frameworks: Clear, Consistent, Concise
+
+**ICS 314 — E37 Reflection | Dennis Sarsozo | July 2026**
+
+---
 
 UI frameworks are not simple. Honestly, learning something like Bootstrap 5 or Tailwind CSS can feel almost like learning a new programming language. There are class names, breakpoints, layout rules, component patterns, and a bunch of conventions that do not feel obvious the first time you see them.
 
@@ -91,4 +96,14 @@ Raw HTML and CSS are clunky when you are trying to build modern interfaces quick
 
 That is why I think they are worth learning. They make it easier to build pages that follow the three C's: clear, consistent, and concise. And that is usually what good UI comes down to.
 
-**AI disclosure:** I used Codex and Gemini via OpenRouter to transcribe my audio notes and help turn them into a draft. I reviewed and edited the content to keep my own views and writing style.
+---
+
+## A Note on AI Use
+
+I used Codex and Gemini through OpenRouter to transcribe my audio notes and help turn them into this draft. I reviewed and edited the content to keep my own views and writing style. AI also pointed out a formatting issue in the Markdown workflow and helped me fix it so the essay matched the rest of my TechFolio essays.
+
+The bigger thing I realized while working on this is that AI is always going to be another tool. You would not expect a landscaper to refuse to use a lawn mower if that is the best tool for the job. Same idea here: I would not expect a serious software engineer to refuse to use AI just to prove a point. The skill is knowing when to use the tool, how to steer it, and how to verify the result. That is probably another essay for another time.
+
+---
+
+*Written for ICS 314, Software Engineering I. University of Hawaiʻi at Mānoa, Summer 2026.*
